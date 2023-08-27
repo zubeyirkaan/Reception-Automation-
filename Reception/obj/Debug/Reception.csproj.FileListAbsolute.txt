@@ -1,0 +1,15 @@
+C:\Users\zubeyirkaan\source\repos\Reception\bin\Debug\Reception.exe.config
+C:\Users\zubeyirkaan\source\repos\Reception\bin\Debug\Reception.exe
+C:\Users\zubeyirkaan\source\repos\Reception\bin\Debug\Reception.pdb
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.Properties.Resources.resources
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.csproj.GenerateResource.cache
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.exe
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.pdb
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.FormNewCustomer.resources
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.FormAdminLogin.resources
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.FormMain.resources
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.FormRooms.resources
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.FormCustomers.resources
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.Profit.resources
+C:\Users\zubeyirkaan\source\repos\Reception\obj\Debug\Reception.FormStock.resources
